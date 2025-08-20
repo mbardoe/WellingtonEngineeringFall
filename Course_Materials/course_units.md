@@ -5,7 +5,7 @@ This course meets 31 times for approximately 1 hour per session. Students explor
 
 ---
 
-## 🔧 Unit 1: Introduction to Engineering + Career Exploration (Days 1–4)
+## Unit 1: Introduction to Engineering + Career Exploration (Days 1–4)
 
 **Goals:**
 - Understand what engineering is
@@ -23,10 +23,10 @@ Short reflection on careers + sketch of an engineering-related project idea
 
 ---
 
-## 🧰 Unit 2: CAD & Digital Design Foundations (Days 5–10)
+## Unit 2: CAD & Digital Design Foundations (Days 5–10)
 
 **Goals:**
-- Learn Fusion 360 basics: sketches, constraints, extrude, revolve, fillets
+- Learn OnShape basics: sketches, constraints, extrude, revolve, fillets
 - Understand tolerances and parametric design
 - Apply CAD to a simple physical product
 
