@@ -41,7 +41,7 @@ class Renderer:
     def process_file(self, directory: Path, filename: Path):
         #os.chdir(directory)
         lines=[]
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding='utf8') as f:
             lines = f.readlines()
 
         # Extract [comment]: commands
