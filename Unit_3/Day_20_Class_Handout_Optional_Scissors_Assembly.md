@@ -33,7 +33,7 @@ This guide walks you through creating, assembling, and animating a pair of sciss
 4. **Sweep** the triangle profile along the path (straight + curved).  
 5. The **blade is now finished**.
 
-![Blade Sketch Placeholder](img/blade.png.png)
+![Blade Sketch Placeholder](../Unit_1/img/blade.png.png)
 
 ---
 
@@ -63,7 +63,7 @@ This guide walks you through creating, assembling, and animating a pair of sciss
 7. Make the **Blade + Handle a Composite Part**.  
 8. Add a **Mate Connector** on the bottom edge.
 
-![Handle Sketch Placeholder](img/handle.png.png)
+![Handle Sketch Placeholder](../Unit_1/img/handle.png.png)
 
 ---
 

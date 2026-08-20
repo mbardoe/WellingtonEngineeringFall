@@ -11,16 +11,16 @@ The goal of this challenge is to:
 * Become more familiar with assembly.
 
 
-![Quick Return Mechanism](img/Quick_Re_Full.png)
+![Quick Return Mechanism](../Unit_1/img/Quick_Re_Full.png)
 
 ## Create a Sketch for Base, Disk, and Slider
 
 Use the drawing tools and diagrams below to recreate the sketch necessary to create the base, disk, and slider.
 
 
-![Bottom of Sketch 1](img/Quick_Re_Bottom_Sketch1.png)
+![Bottom of Sketch 1](../Unit_1/img/Quick_Re_Bottom_Sketch1.png)
 
-![Top of Sketch 1](img/Quick%20_Re_Top_Sketch_1.png)
+![Top of Sketch 1](../Unit_1/img/Quick%20_Re_Top_Sketch_1.png)
 
 ## Extrude the parts
 
@@ -38,7 +38,7 @@ Use the drawing tools and diagrams below to recreate the sketch necessary to cre
 
 ## Create The Crank
 
-![Sketch 2](img/Quick_Re_Sketch_2.png)
+![Sketch 2](../Unit_1/img/Quick_Re_Sketch_2.png)
 
 1. Add new sketch based on the plane of the front of the bottom pin.
 2. Create vertical construction line from center of bottom pin vertically up 172 mm.

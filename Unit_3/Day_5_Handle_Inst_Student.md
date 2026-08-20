@@ -16,7 +16,7 @@ This will give you more practice with **sketching, extrude, fillet, and sweep**.
    - Connect them with arcs to form the overall handle shape.  
 
 *Reference image for handle sketch:*  
-![Handle Sketch Reference](img/handle.png.png)
+![Handle Sketch Reference](../Unit_1/img/handle.png.png)
 
 ---
 

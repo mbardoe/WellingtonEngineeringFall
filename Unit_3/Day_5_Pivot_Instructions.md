@@ -30,7 +30,7 @@ You will also add a **flat-head screwdriver slot** at the top, then bring the pi
    - Use the distance tool past the axis to set the **diameter to 5 mm**.  
 
 *Pivot profile sketch example:*  
-![Handle Sketch Reference](img/pivot.png)
+![Handle Sketch Reference](../Unit_1/img/pivot.png)
 
 ---
 

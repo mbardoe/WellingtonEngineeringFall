@@ -18,7 +18,7 @@ This will give you practice with **sketching, extrude, sweep, and planes**.
 5. Add a **circle for the mating hole**.  
 
 *Reference image for blade sketch:*  
-![Blade Sketch Reference](img/blade.png.png)
+![Blade Sketch Reference](../Unit_1/img/blade.png.png)
 
 ---
 

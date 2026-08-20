@@ -1,3 +1,5 @@
+<!-- Still needs major revision -->
+
 # Day 10 Project: Reverse Engineering & Redesigning a Catapult
 
 In this project, you will use **calipers** to measure a real catapult built by previous students, create a **CAD model** of it in OnShape, and then design your own improved version.

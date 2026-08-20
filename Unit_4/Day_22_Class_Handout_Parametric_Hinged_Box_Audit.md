@@ -28,7 +28,7 @@ This time, you’ll begin by **choosing a hinge pin from the OnShape Standard Co
    - Don’t insert anything yet. Just explore!  
 
 *Standard Content Library view:*  
-![OnShape Standard Content Example](img/standardpart.png)
+![OnShape Standard Content Example](../Unit_1/img/standardpart.png)
 ---
 
 ## Step 2: Choose a Pin
@@ -65,7 +65,7 @@ This time, you’ll begin by **choosing a hinge pin from the OnShape Standard Co
 3. Make sure the barrels line up to form a continuous hinge path for the pin.  
 
 *Hinge barrel layout example:*  
-![Hinge Barrel Example](img/hingepic.png)
+![Hinge Barrel Example](../Unit_1/img/hingepic.png)
 ---
 
 ## Step 6: Insert the Pin

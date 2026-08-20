@@ -1,3 +1,4 @@
+//command: render
 // Engineering Design: CAD and Fabrication
 // Unit descriptions, learning goals, and timeline for Term 1, 2026-2027
 
@@ -126,7 +127,7 @@ Students will be able to:
 - Modify dimensions and evaluate whether a model changes predictably.
 - Create a part from a dimensioned drawing and from measurements of a physical object.
 - Produce an engineering drawing with appropriate views, dimensions, units, and a title block.
-- Use Onshape history, comments, and a named version to document a verified model.
+- Organize an Onshape document using clear names for tabs, sketches, and features, and verify that the model agrees with its measurements or drawing.
 
 == General timeline
 
@@ -244,6 +245,7 @@ Students will be able to:
 - Distinguish automatic history, workspaces, named versions, and branches.
 - Preserve a baseline, explore a meaningful alternative in a branch, and compare the two designs using stated criteria.
 - Decide whether to merge, retain, or reject an alternative and justify that decision.
+- Use Onshape history, comments, and a named version to document a verified model.
 - Communicate a final design with a parameter table, change log, engineering drawing, physical test, and live demonstration.
 
 == General timeline

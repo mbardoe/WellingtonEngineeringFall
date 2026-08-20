@@ -61,7 +61,7 @@
     *Measurement practice:* Measure a small object and produce a dimensioned hand sketch with a proposed feature sequence. _(30 min.)_
   ]),
   meeting(6, unit-1-name, "Sept. 3", "Thu.", "5C", "9:25–10:10", [
-    *45-minute class.* File organization, naming, Onshape history, and comments. Complete a short individual CAD skill check.
+    *45-minute class.* File organization, naming. Complete a short individual CAD skill check.
   ], no-homework),
   meeting(7, unit-1-name, "Sept. 4", "Fri.", "5D", "2:10–3:20", [
     Build a part from a supplied dimensioned drawing. Choose and justify the order of features.
@@ -186,6 +186,7 @@
   grid(
     columns: (1fr, auto),
     align: (left, right),
+    row-gutter: 5pt,
     [#text(size: 15pt, weight: "bold", fill: rgb("0b326b"))[#course-name]],
     [#text(size: 10pt, weight: "bold")[Term 1]],
     [#teacher-name],
