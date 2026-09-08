@@ -61,12 +61,12 @@
     *Measurement practice:* Measure a small object and produce a dimensioned hand sketch with a proposed feature sequence. _(30 min.)_
   ]),
   meeting(6, unit-1-name, "Sept. 3", "Thu.", "5C", "9:25–10:10", [
-    *45-minute class.* File organization, naming. Complete a short individual CAD skill check.
+    *45-minute class.*, We worked on the scoop project to design a scoop that fulfills certain requirement.
   ], no-homework),
   meeting(7, unit-1-name, "Sept. 4", "Fri.", "5D", "2:10–3:20", [
-    Build a part from a supplied dimensioned drawing. Choose and justify the order of features.
+    Time to complete the scoop challenge. Discussion of History, Version, and AI tabs.
   ], [
-    *Parametric change challenge:* Modify three dimensions in the guided part; record what changed correctly and what broke. _(30 min.)_
+    *Sci Oly challenge:* Replicate another CAD drawing from Sci Oly challenges. _(30 min.)_
   ]),
   meeting(8, unit-1-name, "Sept. 9", "Wed.", "4B", "12:00–1:10", [
     Launch the reverse-engineering challenge. Measure a physical part, plan the feature sequence, and begin modeling it from scratch.
