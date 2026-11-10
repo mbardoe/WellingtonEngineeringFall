@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="165" viewBox="0 0 1100 165">
+<rect x="4" y="17" width="1092" height="135" rx="15" fill="#eef5f9" stroke="#c8d9e5" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#ffffff" stroke="#205477" stroke-width="3">
+<rect x="25" y="40" width="198" height="83" rx="11"/><rect x="295" y="40" width="198" height="83" rx="11"/><rect x="565" y="40" width="198" height="83" rx="11"/><rect x="835" y="40" width="238" height="83" rx="11"/>
+</g>
+<g fill="#205477" font-size="25" font-weight="700">
+<text x="124" y="76">Potentiometer</text><text x="394" y="76">Arduino + Servo</text><text x="664" y="76">Meshing Gears</text><text x="954" y="76">Useful Motion</text>
+</g>
+<g fill="#4b6170" font-size="17">
+<text x="124" y="103">User input</text><text x="394" y="103">Controlled rotation</text><text x="664" y="103">Transmission</text><text x="954" y="103">Output action</text>
+</g></g>
+<g fill="none" stroke="#205477" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M232 82 h47 m-12 -12 l13 12 -13 12"/><path d="M502 82 h47 m-12 -12 l13 12 -13 12"/><path d="M772 82 h47 m-12 -12 l13 12 -13 12"/>
+</g></svg>
